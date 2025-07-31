@@ -1,2 +1,2 @@
 # singly_playlist
-Dynamic playlist using singly listed lists
+Dynamic playlist using singly linked lists
